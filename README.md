@@ -1,5 +1,5 @@
 **Now Playing** on Spotify
 
 <a href="https://badgek.herokuapp.com/spotify/play-status?redirect=true">
-    <img src="https://badgek.herokuapp.com/spotify/play-status" width="540" height="64" alt="Now Playing">
+    <img src="https://badgek.herokuapp.com/spotify/play-status" width="540" height="92" alt="Now Playing">
 </a>
